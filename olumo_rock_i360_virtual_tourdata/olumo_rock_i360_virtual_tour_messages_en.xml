@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Olumo Rock]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano10_title"><![CDATA[welcome]]></data>
+  <data name="en_spotpoint931_tooltip"><![CDATA[Parking Lot]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[Parking Lot]]></data>
+  <data name="en_spotpoint932_tooltip"><![CDATA[Entrance Gate]]></data>
+  <data name="en_spotpoint933_tooltip"><![CDATA[Cafe]]></data>
+  <data name="en_spotpoint934_tooltip"><![CDATA[Step]]></data>
+  <data name="en_spotpoint964_tooltip"><![CDATA[Olumo Peak]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[Step]]></data>
+  <data name="en_spotpoint937_tooltip"><![CDATA[To Shrine]]></data>
+  <data name="en_spotpoint938_tooltip"><![CDATA[Parking Lot]]></data>
+  <data name="en_spotpoint965_tooltip"><![CDATA[Olumo Peak]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[Pansheke Garden]]></data>
+  <data name="en_spotpoint936_tooltip"><![CDATA[Step]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[To Shrine]]></data>
+  <data name="en_spotpoint939_tooltip"><![CDATA[Pansheke Garden]]></data>
+  <data name="en_spotpoint941_tooltip"><![CDATA[Ancient Route]]></data>
+  <data name="en_spotpoint942_tooltip"><![CDATA[Parking Lot]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[Orisa Olumo Shrine]]></data>
+  <data name="en_spotpoint943_tooltip"><![CDATA[Healing Water]]></data>
+  <data name="en_spotpoint945_tooltip"><![CDATA[To Shrine]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[Healing Water]]></data>
+  <data name="en_spotpoint946_tooltip"><![CDATA[Orisa Olumo Shrine]]></data>
+  <data name="en_spotpoint947_tooltip"><![CDATA[Cave]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[Cave]]></data>
+  <data name="en_spotpoint948_tooltip"><![CDATA[Healing Water]]></data>
+  <data name="en_spotpoint949_tooltip"><![CDATA[Store]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[Store]]></data>
+  <data name="en_spotpoint950_tooltip"><![CDATA[Cave]]></data>
+  <data name="en_spotpoint951_tooltip"><![CDATA[Pristesses of Olumo]]></data>
+
+
+  <data name="en_pano24_title"><![CDATA[Pristesses]]></data>
+  <data name="en_spotpoint952_tooltip"><![CDATA[Store]]></data>
+  <data name="en_spotpoint953_tooltip"><![CDATA[Baobab Tree]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[Baobab Tree]]></data>
+  <data name="en_spotpoint954_tooltip"><![CDATA[Olumo Top]]></data>
+  <data name="en_spotpoint955_tooltip"><![CDATA[Ancient Route]]></data>
+  <data name="en_spotpoint956_tooltip"><![CDATA[Pristesses Of Olumo]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[Ancient Route]]></data>
+  <data name="en_spotpoint957_tooltip"><![CDATA[Peak]]></data>
+  <data name="en_spotpoint958_tooltip"><![CDATA[Elevator]]></data>
+  <data name="en_spotpoint959_tooltip"><![CDATA[Steps]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[Olumo Peak]]></data>
+  <data name="en_spotpoint962_tooltip"><![CDATA[Peack Mini Lounge]]></data>
+  <data name="en_spotpoint963_tooltip"><![CDATA[Olumo Rock Base]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[Olumo Top]]></data>
+  <data name="en_spotpoint960_tooltip"><![CDATA[Elevator]]></data>
+  <data name="en_spotpoint961_tooltip"><![CDATA[Olumo Peak]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[Café]]></data>
+  <data name="en_spotpoint935_tooltip"><![CDATA[Parking Lot]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick110649webVideoViewer|webVideoViewer|toggle_webvideovideo_url"><![CDATA[https://goo.gl/maps/iUMkftgTg1kLUT7w7]]></data>
+  <data name="en_buttononclick110649webVideoViewer|webVideoViewer|toggle_webvideovideo_title"><![CDATA[]]></data>
+  <data name="en_button1tooltip"><![CDATA[About Dala/Kano]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano10_description"><![CDATA[<div>Welcome to Olumo Rock Tourist Complex Abeokuta Ogun State of Nigeria. Abeokuta is about an hour's drive from the bustling metropolitan city of Lagos providing convenient access to an array of hotels, restaurants, clubs, casinos and various nightlife activities.&nbsp;</div><div><br></div><div>Olumo rock, one of the most popular tourist destinations in Nigeria, West Africa, sits in the ancient city centre of Abeokuta – a name which means “under the rock”. Abeokuta was originally inhabited by the Egba people who found refuge at the Olumo rock during inter-tribal wars in the 19th century.</div>]]></data>
+
+
+
+  <data name="en_pano14_description"><![CDATA[<div>Olumo rock has become the cultural and historical star of the major out cropping of igneous rocks which have dominated the landscape of the famous town of ABEOKUTA, located on the eastern flank of renown Ogun River. The general range of igneous rock outcropping, stands at altitude of 183 meters (600ft) from the surrounding ground level to the peak. Olumo Rock stands at about 130 meters (449ft). Olumo Rock is made up of ignous rock and practically ageless.</div><div><br></div><div>The rock provided sanctuary to the people as well as a vantage point to monitor the enemy’s advance leading to eventual triumph in war. The town of Abeokuta eventually grew as these new settlers spread out from this location.</div>]]></data>
+
+
+
+  <data name="en_pano15_description"><![CDATA[A trip to Olumo rock usually commences with a climb up the man-made stairs carved into the rock. While this sounds easy enough, it leaves many breathless and ready to take a break to rest on the benches under the trees growing from the rock and enjoy the clean breeze.]]></data>
+
+
+
+  <data name="en_pano16_description"><![CDATA[<div>This is the Pansheke Garden, it is made up of pansheke and Obaluaye. Obaluaye is the Yoruba deity of Karma, and patron of small pox.</div><div><br></div><div>The story of the OLUMO ROCK and the EGBA people dates back to the days when songs of war dominated the airwaves in Yoruba land. That was within the first quarter of the nineteenth century. That was the period when brothers fought brothers and the homestead lay desolate. The hitherto formidable OYO EMPIRE was falling apart from the pressure of Fulani attacks from the outside, and conflicts within.</div>]]></data>
+
+
+
+  <data name="en_pano17_description"><![CDATA[Groups that felt marginalised and oppressed by the Oyo Empire sought new places of abode and self determination. One prominent people were the Egbas under the visionary and exemplary leadership of LISABI. He sent out scouts in different directions to look for a suitable and defendable location for settlement. One of the teams of scouts (consisting of three hunters) arrived at what is now the site of Abeokuta. They met a farmer/hunter called Adagba. Adagba took them to the huge rock (Olumo) with its natural caves, naturally built in fortifications and a commanding view of the surrounding land.]]></data>
+
+
+
+  <data name="en_pano18_description"><![CDATA[This is the main shrine of Olumo Rock (Orisa Olumo Shrine), here sacrifices are made to the rock which has become a deity, under this rock the Egba people took refuge during the inter tribal wars. Also traditional believer till date seek for favours at this shrine.]]></data>
+
+
+
+  <data name="en_pano19_description"><![CDATA[Here one will come in contact with the Medicinal Water of the Rock, the water flows from top of the rock near the Crown Tree right through the rock to the second base where it seeps out from the rock below the crown tree base level. It is said to have powers to cure many skin ailment when applied.]]></data>
+
+
+
+  <data name="en_pano11_description"><![CDATA[This is the ancient cave was used by the Egbas as a war time hideout, the cave is within an incredible, cantilever of the rock. In this giant cave are smaller caves which provide shelter for as many as can find their way in. the consulting rooms of the traditional priestesses are located within the extended wing of this cave.]]></data>
+
+
+
+  <data name="en_pano12_description"><![CDATA[This part of the cave was used as storage area by the Egbas. The cave still contains relics of human habitation one which is as grinding holes dug on the stones floor by early settlers.]]></data>
+
+
+
+  <data name="en_pano24_description"><![CDATA[<div>These are the priestesses of Olumo, they still leave under the rock till this very moment. They still intercede and pray for those in need of one favour or the other.</div><div><br></div><div>The story of the OLUMO ROCK and the EGBA people dates back to the days when songs of war dominated the airwaves in Yoruba land. That was within the first quarter of the nineteenth century. That was the period when brothers fought brothers and the homestead lay desolate. The hitherto formidable OYO EMPIRE was falling apart from the pressure of Fulani attacks from the outside, and conflicts within.</div>]]></data>
+
+
+
+  <data name="en_pano13_description"><![CDATA[<div>It is also worthy to mention that the name of the town “ Abeokuta” which means “Under the stone” is derived from the rock, as history tells us that early settlers of the area hid under Olumo rock, using it as refuge against the enemy attack.&nbsp;</div><div><br></div><div>Over the years Olumo Rock became the symbol of security, divine protection unity and freedom to the Egbas and all residents of Abeokuta</div>]]></data>
+
+
+
+  <data name="en_pano20_description"><![CDATA[At this location one will see a huge crevice in the rock that must be scaled to get to the peak of the rock by those who do not use the lift or the lift stairways. There are sculptures of past heroes of Egba land casted at the foot of the rock.]]></data>
+
+
+
+  <data name="en_pano22_description"><![CDATA[<div>The rock provided sanctuary to the people as well as a vantage point to monitor the enemy’s advance leading to eventual triumph in war. The town of Abeokuta eventually grew as these new settlers spread out from this location. The peak of Olumo Rock provides a panoramic view of the ancient city of Abeokuta.</div><div><br></div><div>At the peak of the Rock one will also be amazed by an ancient Iroko tree of over two centuries old growing out of bare rock, this is the Crown Tree. Though it grows on the rock, it is green all year round. It is believed to have mysterious powers and silent prayers or supplication made near the tree would receive favourable divine consideration.</div>]]></data>
+
+
+
+  <data name="en_pano23_description"><![CDATA[After a long climb one can’t help it but to catch some fresh air at the end of the steps, visitors who are testy can also buy light refreshment at this location. The beautiful scenery of the at the top of the rock makes every step that taken worthwhile.]]></data>
+
+
+
+  <data name="en_pano21_description"><![CDATA[<div>The Complex has a state of the art cafe that caters for all the refreshment needs of visitor/tourist, opposite the cafe is a craft shop that display African sculpture and material. &nbsp;</div><div><br></div><div>Other facilities at the complex include; a multipurpose hall, restaurants, museum, water fountain, parking space as well as an administrative block and elevator (lift) that will provide even the climbing-challenged a wonderful view of the surrounding city.</div>]]></data>
+
+
+</krpano>
